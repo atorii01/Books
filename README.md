@@ -48,7 +48,7 @@ Books/
 
 1. **Clone Repository**:
    ```bash
-   git clone https://github.com/username/Books.git
+   git clone https://github.com/atorii01/Books.git
    ```
 2. **Buka Proyek**:
    - Buka file `Books.sln` menggunakan Visual Studio 2019 / 2022.
